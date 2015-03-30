@@ -26,4 +26,10 @@ Installation is done successfully done. <br>
 <code>$django-admin.py startproject first_website </code><br>
 <code>$python first_website/manage.py runserver </code><br>
 Server starts running... Access into any web browser typing <code>http://127.0.0.1:8000/</code><br>
-Yay! The first website is created.
+Yay! The first website is created. <br>
+Tip: Make sure to have two Git windows opened -- one for client and another for server. <br>
+<b>Step 7: Setting up database </b><br>
+Django uses <code>sqlite3</code> as default. <br>
+<code>$python first_website/manage.py migrate</code><br>
+<b>Step 8: Starting an Application </b><br>
+<code>$python first_website/manage.py startapp first_blog </code><br>
