@@ -88,4 +88,4 @@ Now, superuser is created successfully.<br>
 Tip: Better have two git windows for client and server, so you need not run server everytime. <br>
 Dive-in to:- <code>http://127.0.0.1:8000/admin/</code><br>
 More easier than NodeJS, right? <br>
-Now, you have successfully an own blog application.
+Now, you have successfully built an own blog application.
