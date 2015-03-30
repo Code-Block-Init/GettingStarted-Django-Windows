@@ -83,7 +83,7 @@ Now... it's done! Fun, right?
 <code>password (again): ig
 </code><br>
 Now, superuser is created successfully.<br>
-<b>Step 10: Running First Blog Application </b><br>
+<b>Step 11: Running First Blog Application </b><br>
 <code>$python first_website/manage.py runserver</code> <br>
 Tip: Better have two git windows for client and server, so you need not run server everytime. <br>
 Dive-in to:- <code>http://127.0.0.1:8000/admin/</code><br>
